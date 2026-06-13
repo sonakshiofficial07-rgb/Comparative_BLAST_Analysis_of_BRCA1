@@ -1,0 +1,5 @@
+﻿   ORGANISM ,  QUERY COVERAGE,  PERCENT IDENTITY ,       E VALUE,     SUBJECT ID
+Homo sapiens,100%,100%,0,NM_00104593.1
+Pan troglodytes,79%,99.28%,0,NM_00104593.1
+Mus musculus,51%,75.56%,0,NM_009764.3
+Gorilla gorilla ,100%,98.89%,0,XM_031011552.3
